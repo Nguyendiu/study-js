@@ -1,0 +1,21 @@
+body{
+    background-color: #ffffff;
+    text-align: center;
+    margin: 0;
+}
+
+ .brgContent{
+    margin-top: 280px;
+    width: 200px;
+    text-align: center;
+    margin-left: 400px;
+    background-color: black;
+    color: white;
+}
+#btn{
+    margin-top: 30px;
+    
+}
+.brgContent .idColor{
+    color: white;
+}
